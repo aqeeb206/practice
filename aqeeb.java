@@ -9,5 +9,6 @@ public class aqeeb{
         int average=(num1+num2+num3)/3;
         System.out.println(average);
         sc.close();
+        System.out.println("Hello folks");
     }
 }
